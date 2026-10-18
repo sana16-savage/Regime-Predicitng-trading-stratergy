@@ -1,4 +1,4 @@
-REGIME PREDICTING TRADING STRATERGY
+REGIME READING AND PREDCTING
 
 [us_futures_5_with_stage9.ipynb](https://github.com/user-attachments/files/33113109/us_futures_5_with_stage9.ipynb)
 
