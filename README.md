@@ -177,6 +177,7 @@ d. HONEST OUTPUT
 <img width="788" height="89" alt="image" src="https://github.com/user-attachments/assets/45e542f2-2b58-4d02-acc3-21f1ef081c1b" />
 
 WE SUCCESSFULLY FOUND EDGE IN ETHIRIUM.
-I'll soon post the walk forward and Live trade results. stay tuned
+
+
 
 
