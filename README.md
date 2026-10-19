@@ -1,4 +1,4 @@
-REGIME READING AND PREDCTING
+REGIME READING AND PREDCTING using HMM and MACHINE LEARNING
 
 [us_futures_5_with_stage9.ipynb](https://github.com/user-attachments/files/33113109/us_futures_5_with_stage9.ipynb)
 
